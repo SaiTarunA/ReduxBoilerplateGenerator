@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/ReduxBoilerplate/static/css/main.2a8475b0.css",
-    "main.js": "/ReduxBoilerplate/static/js/main.c8c72433.js",
-    "static/media/idea.png": "/ReduxBoilerplate/static/media/idea.b797710fa6410e23f24f.png",
-    "index.html": "/ReduxBoilerplate/index.html",
-    "main.2a8475b0.css.map": "/ReduxBoilerplate/static/css/main.2a8475b0.css.map",
-    "main.c8c72433.js.map": "/ReduxBoilerplate/static/js/main.c8c72433.js.map"
+    "main.css": "/ReduxBoilerplateGenerator/static/css/main.2a8475b0.css",
+    "main.js": "/ReduxBoilerplateGenerator/static/js/main.80f07d06.js",
+    "static/media/idea.png": "/ReduxBoilerplateGenerator/static/media/idea.b797710fa6410e23f24f.png",
+    "index.html": "/ReduxBoilerplateGenerator/index.html",
+    "main.2a8475b0.css.map": "/ReduxBoilerplateGenerator/static/css/main.2a8475b0.css.map",
+    "main.80f07d06.js.map": "/ReduxBoilerplateGenerator/static/js/main.80f07d06.js.map"
   },
   "entrypoints": [
     "static/css/main.2a8475b0.css",
-    "static/js/main.c8c72433.js"
+    "static/js/main.80f07d06.js"
   ]
 }
