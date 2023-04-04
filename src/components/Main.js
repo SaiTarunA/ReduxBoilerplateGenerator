@@ -20,6 +20,7 @@ import InfoRoundedIcon from "@mui/icons-material/InfoRounded";
 import { useState } from "react";
 import IdeaIcon from "../assets/idea.png";
 
+
 // import "codemirror/addon/lint/lint.css";
 // import "codemirror/lib/codemirror.css";
 // import "codemirror/theme/material.css";
