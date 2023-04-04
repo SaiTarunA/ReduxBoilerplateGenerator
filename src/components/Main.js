@@ -480,7 +480,7 @@ const Main = () => {
             p: 2,
           }}
         >
-          Created By A. Sai Tarun
+          Created By Sai Tarun Avadhootha
         </Typography>
       </Container>
     </Box>
