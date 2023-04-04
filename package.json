@@ -1,6 +1,6 @@
 {
-  "name": "reduxboilerplate",
-  "homepage": "https://SaiTarunA.github.io/ReduxBoilerplate",
+  "name": "reduxboilerplategenerator",
+  "homepage": "https://SaiTarunA.github.io/ReduxBoilerplateGenerator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
