@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ReduxBoilerplate/static/css/main.2a8475b0.css",
+    "main.js": "/ReduxBoilerplate/static/js/main.c8c72433.js",
+    "static/media/idea.png": "/ReduxBoilerplate/static/media/idea.b797710fa6410e23f24f.png",
+    "index.html": "/ReduxBoilerplate/index.html",
+    "main.2a8475b0.css.map": "/ReduxBoilerplate/static/css/main.2a8475b0.css.map",
+    "main.c8c72433.js.map": "/ReduxBoilerplate/static/js/main.c8c72433.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a8475b0.css",
+    "static/js/main.c8c72433.js"
+  ]
+}
